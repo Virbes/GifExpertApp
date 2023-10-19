@@ -10,3 +10,13 @@ export const GifGridItem = ({ id, title, url }) => {
         </div>
     );
 }
+
+
+/**
+ * 1. Enzyme
+ * 2. Enzyme json
+ * 3. debe de mostrar el componente correctamente
+ *      Shallow
+ *      Wrapper
+ *      Wrapper .toMatchSnapshot()
+ */
